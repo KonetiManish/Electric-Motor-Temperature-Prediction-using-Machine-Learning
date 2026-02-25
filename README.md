@@ -18,30 +18,31 @@ The system includes:
 ---
 ## 📁 Project Structure
 
-#Electric-Motor-Temperature-Prediction-using-Machine-Learning/
-#│
-#├── Dataset/                     # Raw dataset (ignored in GitHub)
-#│   └── pmsm_temperature_data.csv
-#│
-#├── Model/                       # Saved ML model and scaler
-#│   ├── model.save
-#│   └── transform.save
-#│
-#├── Training/                    # Model training notebooks / scripts
-#│   └── training_code.ipynb
-#│
-#├── Flask/                       # Flask application files
-#│   ├── app.py
-#│   └── templates/
-#│       └── index.html
-##│
-##├── IBM_Scoring_Endpoint/        # Cloud deployment files (if used)
-##│
-##├── test_prediction.py           # Script to test predictions
-##│
-##├── .gitignore                   # Ignore dataset and large files
-#├── README.md                    # Project documentation
-*└── requirements.txt             # Python dependencies
+```
+Electric-Motor-Temperature-Prediction/
+│
+├── Dataset/                     # Raw dataset (ignored in GitHub)
+│   └── pmsm_temperature_data.csv
+│
+├── Training/                    # Model training notebooks / scripts
+│   └── training_code.ipynb
+│
+├── Model/                       # Saved ML model and scaler
+│   ├── model.save
+│   └── transform.save
+│
+├── Flask/                       # Flask application files
+│   ├── templates/
+│   │   └── index.html
+│   └── app.py
+│
+├── IBM_Scoring_Endpoint/        # Cloud deployment files (optional)
+│
+├── test_prediction.py           # Script to test predictions
+├── requirements.txt             # Python dependencies
+├── .gitignore                   # Ignore dataset & large files
+└── README.md                    # Project documentation
+```
 ## 🚀 Features
 - Predicts motor PM temperature
 - Real-time prediction using Flask API
