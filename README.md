@@ -34,14 +34,14 @@ The system includes:
 #│   ├── app.py
 #│   └── templates/
 #│       └── index.html
-#│
-#├── IBM_Scoring_Endpoint/        # Cloud deployment files (if used)
-#│
-#├── test_prediction.py           # Script to test predictions
-#│
-#├── .gitignore                   # Ignore dataset and large files
-#├── README.md                    # Project documentation
-#└── requirements.txt             # Python dependencies
+##│
+##├── IBM_Scoring_Endpoint/        # Cloud deployment files (if used)
+##│
+##├── test_prediction.py           # Script to test predictions
+##│
+##├── .gitignore                   # Ignore dataset and large files
+##├── README.md                    # Project documentation
+##└── requirements.txt             # Python dependencies
 ## 🚀 Features
 - Predicts motor PM temperature
 - Real-time prediction using Flask API
