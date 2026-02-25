@@ -53,7 +53,21 @@ Electric-Motor-Temperature-Prediction-using-Machine-Learning/
   - 🔴 Red → Danger
 
 ---
+## 📂 Dataset
 
+⚠️ The dataset is not included in this repository due to GitHub file size limitations.
+
+Please download the dataset from:
+[koggle link:https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature]
+
+After downloading, place it inside the `Dataset/` folder.
+## 🤖 Trained Model
+
+The trained model file is not uploaded to GitHub.
+
+To generate the model:
+1. Run the training notebook in the `Training/` folder.
+2. Save the model inside the `Model/` folder.
 ## 🧠 Input Features
 The model uses the following inputs:
 
