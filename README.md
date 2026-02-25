@@ -40,8 +40,8 @@ The system includes:
 ##├── test_prediction.py           # Script to test predictions
 ##│
 ##├── .gitignore                   # Ignore dataset and large files
-##├── README.md                    # Project documentation
-##└── requirements.txt             # Python dependencies
+#├── README.md                    # Project documentation
+*└── requirements.txt             # Python dependencies
 ## 🚀 Features
 - Predicts motor PM temperature
 - Real-time prediction using Flask API
