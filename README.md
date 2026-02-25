@@ -1,3 +1,8 @@
+# ⚡ Electric Motor Temperature Prediction using Machine Learning
+
+A Machine Learning based system that predicts Permanent Magnet (PM) temperature of an electric motor using sensor inputs such as ambient temperature, coolant temperature, voltage, current, and motor speed.
+
+This project demonstrates predictive maintenance using regression models and Flask deployment.
 # Electric Motor Temperature Prediction using Machine Learning
 
 ## 📌 Project Overview
