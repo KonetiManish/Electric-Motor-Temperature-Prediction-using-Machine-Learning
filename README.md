@@ -106,7 +106,12 @@ Due to GitHub file size limitations, the dataset file is not included in this re
 ---
 
 ## 👨‍💻 Author
-Team Member:Koneti Manish
+Team ID: LTVIP2026TMIDS81670
+Team Size: 4
+Team Leader: Kalla Aakash
+Team member: Kavya Vunise
+Team member: Koneti Manish
+Team member: Koushik Reddy
 Machine Learning & AI Enthusiast
 
 ---
